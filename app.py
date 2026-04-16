@@ -31,7 +31,7 @@ MI_WEBHOOK_GOOGLE_SHEETS = "https://script.google.com/macros/s/AKfycbzQ7mWYqOkJ7
 
 # CONFIGURACIÓN DRIVE
 SCOPES = ['https://www.googleapis.com/auth/drive']
-SERVICE_ACCOUNT_FILE = 'facturas-493521-ac494f157c7a.json' # Asegúrate que el archivo se llame así
+SERVICE_ACCOUNT_FILE = 'facturas-493521-cd387f708546.json' # Asegúrate que el archivo se llame así
 ID_CARPETA_DRIVE = 'ac494f157c7ac92bd0880e93419839ac4c70346b'
 # ======================================================
 
