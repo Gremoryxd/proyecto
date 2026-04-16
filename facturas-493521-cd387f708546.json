@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "facturas-493521",
+  "private_key_id": "cd387f708546036c9ae095e48579d43716a79355",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCTI5WQ706ubb9R\nA4+AJ8xT5dJDDSbkB4MNJRTWhnZ46VJUmq+ehdsgL1GFxZlfXNWKSuuzb5tvQvaa\n8ZPOheQfhyf7e21IMOarMtYHZhhRAQQ0va+XMrrUvZFAQGosPYeekqFFHCMrEknx\nNJyp9Ul7AtAIIAyFvbJUY+ihSIS+h3le1WHGjIFfGaH29xv4Rdq+8zX4tPTdCXn7\n0qZNvhdtQDUDSP0XuMcdicXVvcOSbtGOkq3vmDzSLqpdrHtvW8cZkbQUZdzG424B\nsgwmqxW9ZUlA6L3VpPKbcWR2hk0ir+UOAJLMRK+viB/fAtoffKRtN7RUvPIQHvfU\nsmbEa6TjAgMBAAECggEAKzqUqjjMxo2C3HPt2KqYqvuGC2IVT4BvfdCrrx1hOEPg\nhu/NcgcEqo+MZX95AJ3/NPqvBhBfu9ASMNKR6ObIb4Tfd9C6+i83zguI+zKBKWdh\ni3dBW+wxHOi3AIgMSYQoUKvmyq2qHXDpnX6mGn7wwD3CzehQlYh2mLmjsqLiMTGd\nKaMFgBO65evUYJ5y/Y5PTZBFJmR9SrUx2LQg1iV6mXBmhvMdGD8dhaNx/sqJw3kw\nneJ6uztXYdPb2pc+baiBJ47ptre5Y8BD+x+h2NjMCxQCZBbCNHkwUxrRg49HazZH\nsYmD5P57RdcVDy/hc1ARksF2rMqDlIPx2zDJbOpKXQKBgQDCWJexE5HTxrzGqAUs\nO9PAR5nw/e93K7zXWm37JfJzXnH4shHd2wr1anczHML+LwMVszmOsaf7j9Db52+h\nZohDD9IZFmTqvvL+Sq2jQLq9lfxBvFrDrikXL62pD17dAsp+LYN8MpHs4h05ZCGg\nWTbuELUhVnGi258XiDVf/ek2hwKBgQDB0StOp/enWB89rS/AvHLIiKbmSvf3GvWp\nU3zwa/2zv2rpTTK739AoeEXyDjQxqS71Xa1JyqvfyXkZlSfCCzvPE9veRdcyItPV\noIoeBjtfcr/BxkJqFjUlrfmH9Q+IZVRmwMae1xejQRxxwSC68fzrpVKoZVbTOSjH\nSATn6DKZxQKBgFyz35+ywwOur8teyCDiZM46GT8wEbLZpRlgZEfBQRYw/dJwNj+K\nRX7tCvDRjl2q1SDbvd/H9GX1ot3SVpg5jVPXzxLycK7c6JHN02ek766RRaOhkfX3\nNFiAAKk80LZBp49qbGaoxJym+uOuVK/k/mOuiofdcRULB6c07KjeOAkvAoGBAJk6\nKKbSnDQssuYr2Sji00w+3NQMSOWO5tCrNIdOmRBWMMupQIbPdt3H2GR5XkI0ou9Q\n1AMWu7L8sUTMatY501rvNFARnwQADMFDXm5GNwJK0db8St1cGUBkvnYCA/mtQoDJ\nvz0sh3+Fpls4eAvT7ETQOvzuwSnUcqy5/0boh7iRAoGAC1vFVZpNGLhRJ8uoheXG\nnDWgYvtFO4D/sS9m+HFHseKeStKIqetAv2akGid1Gy+dBcDtL1p3oJxjlLsZVyZG\nuaMMl1D3gcLNlAQPfoQjd6yX2ixCJiXJzdGMBbds9xolJODjmngSfGvlbBCaJZuS\n800EZ2cd96af1+AZH4FsRdk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "riasgremory@facturas-493521.iam.gserviceaccount.com",
+  "client_id": "115389495615615220419",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/riasgremory%40facturas-493521.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

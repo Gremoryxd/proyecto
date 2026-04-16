@@ -1,0 +1,11 @@
+Flask
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+Pillow
+qrcode
+fpdf
+requests
+python-barcode
+google-genai
+gunicorn
