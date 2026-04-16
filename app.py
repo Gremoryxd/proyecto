@@ -21,18 +21,18 @@ from google import genai
 from google.genai import types
 
 app = Flask(__name__)
-app.secret_key = 'Ferna_Cloud_2026'
+app.secret_key = 'Gemini API Key facturas'
 
 # ======================================================
 # CONFIGURACIÓN
 # ======================================================
-MI_API_KEY_GEMINI = "TU_API_KEY"
-MI_WEBHOOK_GOOGLE_SHEETS = "TU_URL_DE_APPS_SCRIPT"
+MI_API_KEY_GEMINI = "AQ.Ab8RN6IMVZLqckeJ5bcDXr6jOG45HY_Ngbg8oNmYzoS-3WI-jw"
+MI_WEBHOOK_GOOGLE_SHEETS = "https://script.google.com/macros/s/AKfycbzQ7mWYqOkJ77C5bVRDuXsrOuoFddDMiukOKIKxcT-VMxppM3Rd-mEIQzhPHHgZGjoZ/exec"
 
 # CONFIGURACIÓN DRIVE
 SCOPES = ['https://www.googleapis.com/auth/drive']
-SERVICE_ACCOUNT_FILE = 'credenciales-drive.json' # Asegúrate que el archivo se llame así
-ID_CARPETA_DRIVE = 'TU_ID_DE_CARPETA_DRIVE'
+SERVICE_ACCOUNT_FILE = 'facturas-493521-ac494f157c7a.json' # Asegúrate que el archivo se llame así
+ID_CARPETA_DRIVE = 'ac494f157c7ac92bd0880e93419839ac4c70346b'
 # ======================================================
 
 CARPETAS = ['static/uploads', 'static/qrs', 'static/pdfs', 'static/barcodes']
